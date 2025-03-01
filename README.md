@@ -1,2 +1,2 @@
-# PRODIGY_WD_02
+# web Stopwatch
 Interactive and User-friendly stopwatch web Application
